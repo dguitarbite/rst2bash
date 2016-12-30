@@ -1,0 +1,1 @@
+This repository has been moved to [OpenStack/rst2bash](https://git.openstack.org/cgit/openstack/rst2bash) and is a part of [openstack documentation project](https://wiki.openstack.org/wiki/Documentation).
